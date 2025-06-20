@@ -1,27 +1,18 @@
 # 💊 PumpFun Solana Smart Contract  
 
-The **Pump.fun Smart Contract Fork** is a cutting-edge platform designed to empower users in creating and managing tokens, markets, and liquidity pools on **Raydium/Meteora/Pumpswap**. This enhanced version extends beyond the core features of Pump.fun, offering advanced functionalities for **token authority management, custom token properties, whitelisting, and liquidity control**.  
+The **Pump.fun Smart Contract forking** is an innovative platform  designed to allow users to create tokens, markets, and pools on Raydium/Meteora/PumpSwap. This comprehensive project offers not only same features of pump.fun but also more for managing token authorities, customizing token properties, white list and handling liquidity pools with advanced functionalities. 
 
-## ✨ Key Features  
+### ✨ Features
 
-- **Token Management**: Create fully customizable tokens (name, symbol, image) with optional revocable token authority.  
-- **Market Creation**: Seamless market setup for token trading.  
-- **Pool Management**: Add/remove liquidity on Raydium, manage SPL token burns efficiently.  
-- **Dashboard**: Comprehensive token listings with real-time insights.  
-- **Discord Integration**: Instant notifications via **Discord webhooks**.  
-- **Fee Handling**: Integrated fee structure for contract usage.  
-
-## 🚀 Latest Enhancements  
-
-### 🔄 **Meteora/Raydium/Pumpswap Migration**  
-Effortlessly migrate liquidity to **Meteora or Raydium** using **Cross-Program Invocation (CPI) calls**. This ensures smooth interoperability and efficient asset movement between **Solana's top liquidity platforms**.  
-
-### ✅ **Whitelisting System**  
-Implement **granular access control** by **whitelisting users** with specific permissions. This feature allows project owners to define different levels of authority, providing enhanced **security and flexibility** in token and pool management.  
-
-### ⚠️ **Spam Detection & Prevention**  
-A **smart spam detection system** automatically identifies and handles malicious activities in **OpenBook markets**. This ensures a fair and **secure trading environment** by mitigating spam transactions and market manipulation.  
-
+- **Token Management**: Create tokens with customizable names, symbols, and images. Revoke token authority as needed.
+- **Market Creation**: Set up markets for trading tokens with ease.
+- **Pool Management**: Add and remove liquidity in Raydium pools. Burn SPL tokens efficiently.
+- **Dashboard**: Display detail information of token listed on pump.fun.
+- **Discord Integration**: Receive real-time notifications on Discord via webhooks.
+- **Fee**: Handling gather fee from user who use our smart contract.
+- 🚀 **Migration to Meteora/Raydium/PumpSwap** 🚀: Migration to Meteora/Raydium using CPI call.
+- 🚀 **Whiltelist** 🚀: Add user to whitelist to add more permission to each user.
+- 🚀 **Spam Detection** 🚀: Automatically catch and handle spammers making transactions to the OpenBook market.
 
 ## 🤝 Proof of Work
 
@@ -52,13 +43,15 @@ A **smart spam detection system** automatically identifies and handles malicious
   - Migration: [https://solscan.io/tx/3G43Gty6JwmGjyToKoeKAQLwuC42AXrCw7gp2KFnZrdahEepRnU4ZoKtN6wfjoxH9FnFrPToiPbMmDoeAWcXodQF?cluster=devnet]
   - Lock: [https://solscan.io/tx/jeMaznRax6w37GDco581AnZnU6sqAinwRiHD5nBC19fpNUzUzKvPwCey7aynHUydzMXV7kDdHiBY52eCcETeoyV?cluster=devnet]
 
-## Contact
-
-For questions or inquiries about Solana smart contract development, DeFi implementation, or DEX integration, please reach out to the project maintainers.
+## 📞 Contact Info
 
 **Telegram**: [@Tru3B1iss](https://t.me/Tru3B1iss)
 **X (Twitter)**: [@XTruebliss](https://x.com/XTruebliss)
 **Discord**: [@trueb1iss](https://discord.com/users/1274339638668038187)
+
+## 🍵 Tip
+
+### If you are intereseted in my projects, please 🔗fork or give me ⭐star
 
 > Note: The frontend and backend components are developed and maintained privately. The complete implementation including Raydium and Meteora migration features, along with other detailed code, is reserved for private access. Please contact us for more information about the project's features and capabilities.
 
